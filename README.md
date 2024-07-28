@@ -10,4 +10,7 @@ thnnx/thnnx is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-For full page link of the Power BI Dashboard Click this link
+For full page link of the Power BI Dashboard 
+Click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=c3f2a263-6147-4f6a-9ece-47beff1f4d48&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
+
+![Portfolio Dashboard]
